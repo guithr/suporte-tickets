@@ -34,12 +34,12 @@ Desenvolver essa API sem dependências externas ajudou a compreender **como o No
 
 1. **Clone o repositório:**  
    ```bash
-   git clone https://github.com/seu-usuario/support-ticket-api.git
+   git clone https://github.com/guithr/suporte-tickets.git
    ```  
 
 2. **Acesse o diretório do projeto:**  
    ```bash
-   cd support-ticket-api
+   cd suporte-tickets
    ```  
 
 3. **Instale as dependências (caso necessário no futuro):**  
